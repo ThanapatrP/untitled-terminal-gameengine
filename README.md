@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fluid
 
 A tiny fantasy-console-style game engine. Write games in **Lua**, play them as
@@ -87,7 +86,3 @@ reference for AI coding agents.
 - Sound: built-in chip synth (`beep`, `play`)
 - Play over SSH
 - ESP32 runtime
-=======
-# untitled-terminal-gameengine
-Untitled Game engine project that use terminal as display
->>>>>>> 982bc54bc2a5ce19db02bba86fe5efdacb54e769

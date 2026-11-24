@@ -1,0 +1,11 @@
+# Built binaries
+*.exe
+/fluid
+/fluidengine
+/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
